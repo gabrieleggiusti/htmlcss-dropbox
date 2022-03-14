@@ -1,0 +1,54 @@
+.float-left{
+  float: left;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.w40{
+  width: 40%;
+}
+
+.w50{
+  width: 50%;
+}
+
+.w60{
+  width: 60%;
+}
+
+.w3col{
+  width: calc(100%/3);
+}
+
+.jumbotron{
+  width: 90%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.container{
+  max-width: 1200px;
+  min-width: 600px;
+  margin: 0 auto;
+}
+
+/* DEBUG */
+
+.debug{
+  background-color: rgba(red, 0, 0, alpha.2);
+  border: 1px solid black;
+}
+
+.h100{
+  min-height: 100px;
+}
+
+.h300{
+  min-height: 300px;
+}
+
+.h500{
+  min-height: 500px;
+}
