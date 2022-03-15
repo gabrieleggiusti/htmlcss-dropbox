@@ -75,12 +75,12 @@ header li{
   margin-bottom: 20px;
 }
 
-span.button {
+span.btn {
   width: 220px;
   margin: 20px 0 10px 0;
 }
 
-span.button a{
+span.btn a{
   text-decoration: none;
 }
 
@@ -92,6 +92,45 @@ span.button a{
   padding-right: 50px;
   width: 40%;
 }
-
-  
 /* / JUMBOTRON */
+
+
+/* PIANO BUSINESS */
+
+/* /PIANO BUSINESS */
+
+
+
+/* DESCRIZIONE DROPBOX  */
+.col2 img{
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+.partner-text {
+  padding: 40px;
+}
+
+.partner-text h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.partner-text p {
+  margin-bottom: 25px;
+  font-size: 0.9rem;
+}
+
+.white-btn {
+  background-color: white;
+  color: black;
+  padding: 8px 15px;
+  border: 1px solid black;
+}
+
+.partner-section {
+  margin-bottom: 50px;
+}
+/* /DESCRIZIONE DROPBOX  */
+
