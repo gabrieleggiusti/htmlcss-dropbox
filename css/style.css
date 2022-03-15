@@ -134,3 +134,39 @@ span.btn a{
 }
 /* /DESCRIZIONE DROPBOX  */
 
+/* DROPBOX OPERATION */
+.op-img img{
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.op-txt h4{
+  margin-bottom: 15px;
+}
+
+.drop-paper  {
+  text-decoration: underline;
+  color: black;
+}
+
+.drop-op .op-col{
+  margin: 10px 20px;
+  width: calc((100% - 120px) / 3);
+}
+
+.drop-op {
+  margin-bottom: 130px;
+}
+
+.drop-team h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.drop-team a {
+  text-decoration: underline;
+  color: #0050FF;
+  font-size: 13px;
+}
+/* /DROPBOX OPERATION */
